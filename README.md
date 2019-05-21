@@ -1,6 +1,7 @@
 # Monty Hall Problem Automated with Python
 
 ![Click Here to Watch Video](/thumbnail.png "Watch the Video")
+*Click the image to watch the tutorial*
 
 In this tutorial we program the Monty Hall problem step-by-step to create a Python file that let's you play the game. Then, we take it a step further by automating game play and showing how different strategies affect your chances of winning. SPOILER: You can increase your chance of winning 33% by switching doors :)
 
